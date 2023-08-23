@@ -51,7 +51,7 @@ There is also a list-based interface for users who wish to view dining options b
 * **Using an Icon:** Go to https://fontawesome.com/search?o=r&m=free and look for an icon you like. In your component, import `{FontAwesomeIcon}` from `@fortawesome/react-fontawesome` and `{iconName}` from `@fortawesome/free-solid-svg-icons`. To use the icon, add the following to your HTML: `<FontAwesomeIcon icon={iconName}`. For example, look how I added `<FontAwesomeIcon icon={faGlobeAmericas}` to the HelloWorld component.
 
 ## License Information
-[License](https://github.com/utk-cs340-fall22/FinDining/blob/main/LICENSE.txt)
+[License](https://github.com/JihunKimCode/FinDining/blob/main/LICENSE.txt)
 
 ## Presentation
-[Presentation](https://github.com/utk-cs340-fall22/FinDining/blob/main/CS%20340%20Fin'Dining%20Final%20Presentation%20-%2012_1_2022%20(1).pdf)
+[Presentation](https://github.com/JihunKimCode/FinDining/blob/main/CS%20340%20Fin'Dining%20Final%20Presentation%20-%2012_1_2022%20(1).pdf)
