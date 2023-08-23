@@ -3,11 +3,11 @@
  ![alt text](frontend/public/map.png)
 
 ## Contributors
-- Dong Jun Woun (djwoun)
-- Jovan Yoshioka (jovanyoshioka)
-- Seoyoung An (seoyoung16)
-- Jihun Kim (jkim172vols)
-- Jonathan Skeen (jskeen6)
+- Dong Jun Woun
+- Jovan Yoshioka
+- Seoyoung An
+- Jihun Kim
+- Jonathan Skeen
 
 ## Project Description
 Fin'Dining is a web-based app that makes Vol Dining more accessible, providing a better user experience and ultimately a better dining experience for students at The University of Tennessee. Fin'Dining includes a map-based streamlined interface that contains icons for each dining location. When clicked, the icons provide information about that dining location (i.e., hours of operation, community-based rating, street address, and menu information). To accommodate more types of users who may not want to use the map-based interface, Fin'Dining also includes a list-based interface that shows the dining options in clickable text format. When users click an option's name, the associated dining information appears. For users to find a restaurant easier and quicker, this list-based interface offers a search bar and filters where users can input their preferences regarding dietary restrictions, meal swipe period (i.e., breakfast/lunch/dinner), location, and hours of operation.
